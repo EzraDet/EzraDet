@@ -50,7 +50,12 @@
 
 ## Connect with me:
 <p align="left">
-
-<a href = "https://www.youtube.com/channel/UCkOf2j6-H68aX_aMByzXCzg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
+ <a href="https://www.linkedin.com/in/doung-det-011155238/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCkOf2j6-H68aX_aMByzXCzg">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/det_doung">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
